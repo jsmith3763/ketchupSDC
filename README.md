@@ -2,7 +2,9 @@
 Forum based social media application.
 
 Built with-
+
 Front End - JavaScript, React, HTML5, CSS3
+
 Back End - Node.js, Express, PostgreSQL, RESTful API 
 
 
